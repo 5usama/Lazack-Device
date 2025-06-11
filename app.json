@@ -1,6 +1,6 @@
 {
-  "name": "Lazack Device",
-  "description": " Whatsapp botz made by team lazack.",
+  "name": ".ιllιlι.ιl❤MUͥBAͣSͫHIR RAJPOOT🌺♥",
+  "description": " Whatsapp botz made by team mubashir.",
   "keywords": [
     "whatsapp bot"
   ],
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255734980103"
+      "value": "923244574956"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "𝐋𝐀𝐙𝐀𝐂𝐊-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "||•MUBASHIR RAJPUT•||🖤🥀"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
